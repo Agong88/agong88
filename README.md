@@ -65,8 +65,8 @@
 
 ## Contribution Snake
 
-![Snake animation light](https://raw.githubusercontent.com/Agong88/Agong88/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![Snake animation dark](https://raw.githubusercontent.com/Agong88/Agong88/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![Snake animation light](https://raw.githubusercontent.com/Agong88/Agong88/output/github-snake.svg#gh-light-mode-only)
+![Snake animation dark](https://raw.githubusercontent.com/Agong88/Agong88/output/github-snake-dark.svg#gh-dark-mode-only)
 
 ## Spotify — Recently Played
 
