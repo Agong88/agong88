@@ -1,13 +1,6 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/157879765?v=4" alt="Agong avatar" width="160" />
   <h1>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="wave" width="25" />, I'm Agong</h1>
-  <p>{AAAA}</p>
-  <p>Data Processing student @ Taipei Shilin Vocational High School of Commerce · Web &amp; Pwn learner · B33F 50UP member</p>
-  <p>
-    <a href="https://agong.tech/">Blog</a>
-    · <a href="https://agong.tech/en/page/about/">About</a>
-    · <a href="https://agong.tech/en/page/links/">All links</a>
-  </p>
+  <p>Data Processing student @ Taipei Shilin Vocational High School of Commerce </p>
   <img src="https://komarev.com/ghpvc/?username=Agong88&style=flat&color=0e75b6&label=Profile+views" alt="profile views" />
 </div>
 
@@ -59,27 +52,25 @@
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Agong88&theme=onestar&column=4&no-frame=true&no-bg=true" alt="GitHub Profile Trophy" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Agong88&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agong88&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Agong88&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&cache_seconds=86400" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agong88&layout=compact&theme=transparent&hide_border=true&cache_seconds=86400" alt="Top languages" />
+  <br/>
   <img src="https://streak-stats.demolab.com?user=Agong88&theme=transparent&hide_border=true&mode=weekly" alt="GitHub streak" />
 </div>
 
 ## Contribution Graph
 
-[![Agong's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Agong88&theme=react-dark&hide_border=true&custom_title=Agong%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Agong's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Agong88&theme=github-compact&hide_border=true&area=true&custom_title=Agong%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Contribution Snake
 
-![Snake animation light](https://raw.githubusercontent.com/Agong88/Agong88/output/github-snake.svg#gh-light-mode-only)
-![Snake animation dark](https://raw.githubusercontent.com/Agong88/Agong88/output/github-snake-dark.svg#gh-dark-mode-only)
+![Snake animation light](https://raw.githubusercontent.com/Agong88/Agong88/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![Snake animation dark](https://raw.githubusercontent.com/Agong88/Agong88/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 ## Spotify — Recently Played
 
-<div align="center">
-  <a href="https://open.spotify.com/user/31vhh2ecz7ffd443hqftstammxwa">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31vhh2ecz7ffd443hqftstammxwa&count=5" alt="Spotify recently played" />
-  </a>
-</div>
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=31vhh2ecz7ffd443hqftstammxwa&count=6" alt="Spotify recently played" width="450"/>
 
 ## Latest from the Blog
 
