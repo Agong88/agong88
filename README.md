@@ -48,37 +48,14 @@
   </a>
 </div>
 
-## Dashboards
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Agong88&theme=onestar&column=4&no-frame=true&no-bg=true" alt="GitHub Profile Trophy" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Agong88&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&cache_seconds=86400" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agong88&layout=compact&theme=transparent&hide_border=true&cache_seconds=86400" alt="Top languages" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=Agong88&theme=transparent&hide_border=true&mode=weekly" alt="GitHub streak" />
-</div>
-
 ## Contribution Graph
 
-[![Agong's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Agong88&theme=github-compact&hide_border=true&area=true&custom_title=Agong%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-## Contribution Snake
-
-![Snake animation light](https://raw.githubusercontent.com/Agong88/Agong88/output/github-snake.svg#gh-light-mode-only)
-![Snake animation dark](https://raw.githubusercontent.com/Agong88/Agong88/output/github-snake-dark.svg#gh-dark-mode-only)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Agong88&theme=react-dark&bg_color=00000000&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true&custom_title=Agong's%20Contribution%20Graph" alt="Contribution Graph" />
+</div>
 
 ## Spotify — Recently Played
 
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31vhh2ecz7ffd443hqftstammxwa&count=6" alt="Spotify recently played" width="450"/>
-</div>
-
-## Latest from the Blog
-
-<div align="center">
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 </div>
