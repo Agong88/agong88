@@ -70,9 +70,15 @@
 
 ## Spotify — Recently Played
 
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=31vhh2ecz7ffd443hqftstammxwa&count=6" alt="Spotify recently played" width="450"/>
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31vhh2ecz7ffd443hqftstammxwa&count=6" alt="Spotify recently played" width="450"/>
+</div>
 
 ## Latest from the Blog
 
+<div align="center">
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+</div>
